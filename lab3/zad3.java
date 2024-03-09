@@ -1,6 +1,5 @@
 package lab3;
 
-import java.math.*;
 public class zad3 {
     public static void main(String[] args)
     {

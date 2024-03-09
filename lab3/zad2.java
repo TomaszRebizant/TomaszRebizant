@@ -5,11 +5,10 @@ public class zad2 {
       int n = 2, x=2, i=0;
       int[] a = new int[]
         {
-            5,4,3,2,1
+            0,1,2,3,4
         };
       while(i<=n)
       {
-          a[i]=
           i+=1;
       }
       i=n-1;
