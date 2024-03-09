@@ -2,7 +2,7 @@ package lab3;
 
 public class zad1 {
    public static void main(String[] args){
-       int N = 10000,K=12;
+       int N = 10000,K=18;
        while(K<N){
            int L = 2, Z=0;
            while(L<(K/2))
